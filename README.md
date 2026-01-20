@@ -1,81 +1,48 @@
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/421c8ecc-81fd-47d0-8201-769edd1654ec" /><h1 align="center">Hi 👋, I'm Sreng Sopheakanha</h1>
-<h3 align="center">Creative Developer | Backend Engineer | AI Enthusiast</h3>
+<h1 align="center">Hey there, I'm TINA <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h3 align="center">A passionate Python and Front-End (and a beginner designer) developer from Brazil</h3>
 
+- I’m currently pursuing my degree in Computer Science at **Institute of Technology of Cambodia**
 
+- I’m currently learning many computer things such as **Data Structures and Algorithms, Web Development, Mobile Development and Design, things about computer systems, Networking, and Server stuff**
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=7C3AED&center=true&vCenter=true&width=500&lines=Building+cool+things+with+code;Backend+%7C+AI+%7C+Databases;Always+learning+something+new" />
+- How to reach me: **Kanharoth12345@gmail.com**
+
+- What I like to do: **listening to music, sketching, coding, and play minecraft**
+
+<h3 align="center">Connect with me:</h3>
+<div align="center">
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauro_brant-1/)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brantlauro/)
+[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/brantlauro)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:produtor.brantlauro@gmail.com)
+  
+</div>
+
+<h3 align="center">Languages and Tools:</h3>
+
+<p align="center"> 
+  <a href="https://www.w3.org/html/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a>  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.linux.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a>
 </p>
 
----
-
-## 🧠 About Me
-
-I'm a passionate developer with strong interests in **backend systems, AI, databases, and distributed systems**.  
-I love building scalable applications, experimenting with machine learning models, and solving real-world problems with clean, efficient code.
-
-When I'm not coding, you'll find me exploring new technologies, working on side projects, or learning advanced computer science concepts.
-
-I'm always excited to collaborate on challenging projects that push me to grow 🚀
-
----
-
-## ⚙️ Skills & Technologies
-
-### 🧑‍💻 Developer
-![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=7C3AED)
-![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=7C3AED)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=7C3AED)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=7C3AED)
-![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=postgresql&logoColor=7C3AED)
-
-### 🧠 AI / Data
-![TensorFlow](https://img.shields.io/badge/TensorFlow-000?style=for-the-badge&logo=tensorflow&logoColor=7C3AED)
-![PyTorch](https://img.shields.io/badge/PyTorch-000?style=for-the-badge&logo=pytorch&logoColor=7C3AED)
-![NumPy](https://img.shields.io/badge/NumPy-000?style=for-the-badge&logo=numpy&logoColor=7C3AED)
-![Pandas](https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=pandas&logoColor=7C3AED)
-
-### 🗄️ Backend / Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=7C3AED)
-![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=7C3AED)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=7C3AED)
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=7C3AED)
-
----
-
-## 🧾 Experience
-
-### 🔮 2025 — Backend Developer
-**Distributed Systems & Databases**  
-Built backend services using PostgreSQL, REST APIs, and replication systems. Focused on performance optimization and system reliability.
-
----
-
-### 🤖 2024 — AI Developer
-**Machine Learning & NLP Projects**  
-Developed AI models including word prediction engines, tutoring systems, and neural networks from scratch using Python and MATLAB.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" width="48%"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=7C3AED"/></a>
-  <a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=7C3AED"/></a>
-  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=7C3AED"/></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=100&section=footer"/>
+<p align= "center">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=BrantLauro&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrantLauro&theme=react&layout=compact" />
 </p>
