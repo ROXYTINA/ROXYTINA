@@ -1,13 +1,15 @@
 <h1 align="center">Hey there, I'm TINA <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A passionate designer and a beginner Front-End developer from Cambodia</h3>
 
-- I’m currently pursuing my degree in Communication and Technology Engineering at **Institute of Technology of Cambodia**
+- I’m currently pursuing my degree in Communication and Technology Engineering at **The Institute of Technology of Cambodia**
 
-- I’m currently learning many computer things such as **Data Structures and Algorithms, Web Development, Mobile Development and Design, things about computer systems, Networking, and Server stuff**
+- I’m currently learning many computer things, such as **Data Structures and Algorithms, Web Development, Mobile Development and Design, things about computer systems, Networking, and Server stuff**
 
 - How to reach me: **Kanharoth12345@gmail.com**
 
 - What I like to do: **listening to music, sketching, coding, and play minecraft**
+
+- Check out my Portfolio: **Coming Soon**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
