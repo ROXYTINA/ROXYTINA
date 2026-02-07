@@ -9,7 +9,7 @@
 
 - What I like to do: **listening to music, sketching, coding, and play minecraft**
 
-- Check out my Portfolio: **Coming Soon**
+- Check out my Portfolio: **https://tina.cottons.app/**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
