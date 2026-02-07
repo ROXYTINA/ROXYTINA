@@ -54,7 +54,10 @@
 </p>
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ROXYTINA&theme=react&show_icons=true&include_all_commits=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROXYTINA&theme=react&layout=compact" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=ROXYTINA&show_icons=true&theme=radical" alt="GitHub Stats" height="150">
+
+   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ROXYTINA&layout=compact&theme=radical" alt="Top Languages" height="150">
 </p>
+
+
 
