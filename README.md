@@ -49,6 +49,30 @@
   <a href="https://spring.io/projects/spring-boot" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/>
   </a>
+  <a href="https://reactjs.org/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="ReactJS" width="40" height="40"/>
+</a>
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="SQL" width="40" height="40"/>
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="40" height="40"/>
+</a>
+<a href="https://www.rust-lang.org/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="Rust" width="40" height="40"/>
+</a>
+<a href="https://dart.dev/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
+</a>
+<a href="https://flutter.dev/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
+</a>
+<a href="https://www.postgresql.org/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40"/>
+</a>
+<a href="https://nodejs.org/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="40" height="40"/>
+</a>
 
 
 </p>
