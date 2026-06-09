@@ -84,5 +84,6 @@
    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ROXYTINA&layout=compact&theme=radical" alt="Top Languages" height="150">
 </p>
 
+![](https://komarev.com/ghpvc/?username=thypharoth&style=flat-square&color=blue)
 
 
