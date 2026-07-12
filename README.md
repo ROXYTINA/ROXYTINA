@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm TINA <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A passionate designer and a beginner Front-End developer from Cambodia</h3>
+<h3 align="center">A passionate designer and a beginner Software developer from Cambodia</h3>
 
 - I’m currently pursuing my degree in Communication and Technology Engineering at **The Institute of Technology of Cambodia**
 
