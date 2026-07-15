@@ -75,6 +75,22 @@
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="40" height="40"/>
 </a>
 
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/>
+</a>
+
+<a href="https://react.dev/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40"/>
+</a>
+
+<a href="https://vitejs.dev/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" height="40"/>
+</a>
+
+<a href="https://cloud.google.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
+</a>
+
 
 </p>
 
