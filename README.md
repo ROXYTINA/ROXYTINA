@@ -92,9 +92,23 @@
 </a>
 
 
+
 </p>
 
+<h3 align="center">npm package:</h3>
+
+# 🤥 DEVLIES
+
+[![npm version](https://img.shields.io/npm/v/devlies)](https://www.npmjs.com/package/devlies)
+[![npm downloads](https://img.shields.io/npm/dm/devlies)](https://www.npmjs.com/package/devlies)
+[![license](https://img.shields.io/npm/l/devlies)](LICENSE)
+
+
+
+  <h3 align="center">STATUS:</h3>
+
 <p align="center">
+
   <img src="https://github-readme-stats-fast.vercel.app/api?username=ROXYTINA&show_icons=true&theme=radical" alt="GitHub Stats" height="150">
 
    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ROXYTINA&layout=compact&theme=radical" alt="Top Languages" height="150">
