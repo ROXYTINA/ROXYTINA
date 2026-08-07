@@ -1,7 +1,9 @@
 <h1 align="center">Hey there, I'm KANHA <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A passionate designer and a beginner Software developer from Cambodia</h3>
+<h3 align="center">A passionate designer and a Software developer from Cambodia</h3>
 
 - I’m currently pursuing my degree in Communication and Technology Engineering at **The Institute of Technology of Cambodia**
+
+- I'm open to new **projects and sponsors <3** .
 
 - I’m currently learning many computer things, such as **Data Structures and Algorithms, Web Development, Mobile Development and Design, things about computer systems, Networking, and Server stuff**
 
