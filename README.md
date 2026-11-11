@@ -98,16 +98,6 @@
 
 </p>
 
-<h3 align="center">npm package:</h3>
-
-# 🤥 DEVLIES
-
-[![npm version](https://img.shields.io/npm/v/devlies)](https://www.npmjs.com/package/devlies)
-[![npm downloads](https://img.shields.io/npm/dm/devlies)](https://www.npmjs.com/package/devlies)
-[![license](https://img.shields.io/npm/l/devlies)](LICENSE)
-
-
-
   <h3 align="center">STATUS:</h3>
 
 <p align="center">
