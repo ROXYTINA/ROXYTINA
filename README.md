@@ -1,22 +1,28 @@
 <h1 align="center">Hey there, I'm KANHA <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A passionate designer and a Software developer from Cambodia</h3>
- 
+
 - I’m currently pursuing my degree in Communication and Technology Engineering at **The Institute of Technology of Cambodia**
+
 - I'm open to new **projects and sponsors <3** .
+
 - I’m currently learning many computer things, such as **Data Structures and Algorithms, Web Development, Mobile Development and Design, things about computer systems, Networking, and Server stuff**
+
 - How to reach me: **Kanharoth12345@gmail.com**
+
 - What I like to do: **listening to music, sketching, coding, and play minecraft**
+
 - Check out my Portfolio: **[SOPHEAKANHA](https://tinas.app/)**
+
 <h3 align="center">Connect with me:</h3>
-<div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreng-sopheakanha-58a5b2296/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/baby_pxndx/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=Kanharoth12345@gmail.com)
-[![Credly](https://img.shields.io/badge/Credly-View_Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/sreng-sopheakanha)
- 
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sreng-sopheakanha-58a5b2296/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/baby_pxndx/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://mail.google.com/mail/?view=cm&to=Kanharoth12345@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://www.credly.com/users/sreng-sopheakanha"><img src="https://img.shields.io/badge/Credly-View_Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"></a>
+</p>
+
 <h3 align="center">Languages and Tools:</h3>
- 
+
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
@@ -37,33 +43,27 @@
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
   <a href="https://cloud.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/></a>
 </p>
+
 <h3 align="center">Quick Stats:</h3>
- 
+
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=ROXYTINA&show_icons=true&theme=radical" alt="GitHub Stats" height="150">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ROXYTINA&layout=compact&theme=radical" alt="Top Languages" height="150">
 </p>
+
 <!-- METRICS -->
 <h1 align="center">More Stats!</h1>
 <div align="center">
-<a href="https://github.com/ROXYTINA?tab=repositories">
-  <img src="repositories.svg" alt="Repository statistics, traffic, and lines of code" width="412px">
-</a>
+
 <a href="https://github.com/ROXYTINA">
-  <img src="activity_community.svg" alt="GitHub activity and community contributions" width="412px">
+  <img src="iso_calendar_followup.svg" alt="Contribution calendar and issue and pull request follow-up" width="600px">
 </a>
-<a href="https://github.com/ROXYTINA">
-  <img src="iso_calendar_followup.svg" alt="Contribution calendar and issue and pull request follow-up" width="412px">
-</a>
-<a href="https://github.com/ROXYTINA">
-  <img src="habits.svg" alt="Coding habits and activity patterns" width="412px">
-</a>
-<a href="https://github.com/ROXYTINA">
-  <img src="achievements.svg" alt="Achievements" width="412px">
-</a>
+
 </div>
+
 <!--
 OPTIONAL: WakaTime card (only works if you use WakaTime). Replace YOUR_WAKATIME_USERNAME, then uncomment.
+
 <div align="center">
 <a href="https://wakatime.com/@YOUR_WAKATIME_USERNAME">
   <picture>
@@ -75,8 +75,7 @@ OPTIONAL: WakaTime card (only works if you use WakaTime). Replace YOUR_WAKATIME_
 </a>
 </div>
 -->
- 
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ROXYTINA&style=flat-square&color=blue" alt="Profile views">
 </p>
- 
