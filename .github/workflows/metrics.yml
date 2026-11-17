@@ -10,7 +10,7 @@
 name: Metrics
 on:
   schedule:
-    - cron: "0 0 * * *"   # daily at midnight UTC
+    - cron: "0 */4 * * *"   # every 4 hours
   workflow_dispatch:
   push:
     branches: [main]
